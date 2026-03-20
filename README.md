@@ -35,20 +35,9 @@ This project helped me practice:
 
 ## 🎥 Project Preview
 
-<br>
-<table align="center">
-  <tr>
-    <th>✅ First Try</th>
-    <th>🔁 Retry</th>
-    <th>🔒 Blocked</th>
-  </tr>
-  <tr>
-    <td><img src="archives/login_correct.gif" width="250"/></td>
-    <td><img src="archives/login_error.gif" width="250"/></td>
-    <td><img src="archives/login_block.gif" width="250"/></td>
-  </tr>
-</table>
-<br>
+<p align="center">
+  <img src="archives/rps.gif" alt="Project Preview" width="100%">
+</p>
 
 ## 📌 Future Improvements
 - Store numbers using lists
