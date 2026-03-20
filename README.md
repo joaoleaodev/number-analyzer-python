@@ -36,7 +36,7 @@ This project helped me practice:
 ## 🎥 Project Preview
 
 <p align="center">
-  <img src="archives/rps.gif" alt="Project Preview" width="100%">
+  <img src="archives/number_analyzer.gif" alt="Project Preview" width="100%">
 </p>
 
 ## 📌 Future Improvements
